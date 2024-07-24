@@ -11,7 +11,7 @@ What You'll Find Here
 Tools and Technologies
 - Programming Languages: R, Python and LaTeX - Currently studying SQL
 - Data Manipulation: dplyr, NumPy, MatPlotLib
-- Data Visualization: Power BI, ggplot2, plotly, Pandas, MatPlotLib, Seaborn
+- Data Visualisation: Power BI, ggplot2, plotly, Pandas, MatPlotLib, Seaborn
 - Databases: SQL, SQLite, Excel
 - Others: Git, Jupyter Notebooks, RStudio
 
