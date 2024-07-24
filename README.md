@@ -9,9 +9,9 @@ What You'll Find Here
 - You may also find some examples of Exploratory Data Analysis (EDA), Data Visualization, or Statistical Analysis, but I intend to focus on these in the coming future.
 
 Tools and Technologies
-- Programming Languages: R with plans to add Python and LaTeX projects in the future
-- Data Manipulation: dplyr
-- Data Visualization: Power BI, ggplot2, plotly
+- Programming Languages: R, Python and LaTeX - Currently studying SQL
+- Data Manipulation: dplyr, NumPy, MatPlotLib
+- Data Visualization: Power BI, ggplot2, plotly, Pandas, MatPlotLib, Seaborn
 - Databases: SQL, SQLite, Excel
 - Others: Git, Jupyter Notebooks, RStudio
 
